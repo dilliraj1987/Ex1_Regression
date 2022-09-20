@@ -1,0 +1,3 @@
+# Regression
+Height prediction system
+In this experiment, The height of the human is predicted from the age. To do it we applied linear regression model with 10 sample data to train the model for prediction. Here, we split the overall data into 80% for training and 20% for testing using X and Y variables. The Shuffling of data randomly from the dataset is done using random state function. The model of this experiment for predicting the output based on linear regression fitting and produces linear output. This experiment also produces the performance metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), Root MSE (RMSE). 
